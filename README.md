@@ -1,4 +1,4 @@
-# budget-app
+c# budget-app
 
 ## Project setup
 ```
